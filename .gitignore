@@ -1,0 +1,19 @@
+#SECRETS 
+.env
+
+#PYTHON CLUTTER
+__pycache__/
+*.pyc
+*.pyo
+
+#VIRTUAL ENVIORMENTS
+venv/
+ .venv/
+
+#VS CODE SETTINGS
+.vscode/
+
+#OS FILES
+.DS_Store
+Thumbs.db
+

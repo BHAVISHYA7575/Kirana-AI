@@ -1,0 +1,36 @@
+[
+{
+ "supplier_id": 1, 
+ "supplier_name":"Sharma_Ji",
+ "contact_number": "9876543210",
+ "email":"sharmaji@gmail.com",
+ "address":"123, Main Street, City",
+ "items_supplied": ["aata", "chawal"],
+ "lead_time_days":3,
+ "min_order_quantity":30
+
+},
+
+{
+ "supplier_id": 2, 
+ "supplier_name":"Gupta_Bhai",
+ "contact_number": "9876543211",
+ "email":"guptabhai@gmail.com",
+ "address":"456, Second Street, City",
+ "items_supplied": ["daal", "cheeni"],
+ "lead_time_days":2,
+ "min_order_quantity":33
+},
+
+{
+"supplier_id": 3, 
+"supplier_name":"Verma_Sir",
+"contact_number": "9876543212",
+"email":"vermasir@gmail.com",
+"address":"789, Third Street, City",
+"items_supplied": ["sarso_tel"],
+ "lead_time_days":5,
+ "min_order_quantity":30
+}
+
+]

@@ -1,0 +1,51 @@
+[
+{
+ "item_name" :"aata",
+ "quantity_kg" :500,
+ "purchase_price" :30,
+ "selling_price" :35,
+ "expiry_years" : 1,
+ "min_threshold_kg" : 20,
+ "avg_daily_sales_kg" : 10
+}, 
+
+{
+ "item_name" :"chawal",
+ "quantity_kg" :100,
+ "purchase_price" :100,
+ "selling_price" :120,
+ "expiry_years" : 1,
+ "min_threshold_kg" : 20,
+ "avg_daily_sales_kg" : 5
+},
+ 
+{
+ "item_name" :"daal",
+ "quantity_kg" :50,
+ "purchase_price" :250,
+ "selling_price" :275,
+ "expiry_years" : 1,
+ "min_threshold_kg" : 5,
+ "avg_daily_sales_kg" : 4
+},
+
+{
+ "item_name" :"cheeni",
+ "quantity_kg" :70,
+ "purchase_price" :42,
+ "selling_price" :48,
+ "expiry_years" : 1,
+ "min_threshold_kg" : 15,
+ "avg_daily_sales_kg" : 8
+},
+
+{
+ "item_name" :"sarso_tel",
+ "quantity_kg" :100,
+ "purchase_price" :120,
+ "selling_price" :150,
+ "expiry_years" : 1,
+ "min_threshold_kg" : 20,
+ "avg_daily_sales_kg" : 10
+}
+]
