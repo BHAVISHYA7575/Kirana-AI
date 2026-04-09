@@ -1,2 +1,4 @@
 sentence-transformers
 faiss-cpu
+langgraph
+langchain-groq
