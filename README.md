@@ -6,12 +6,13 @@ tech stack
 3. Large Language Model : llama-3.3-70b-versatile
 4. Vector Database : FAISS
 5. Agent Framework : LangGraph
+6. User interface : streamlit
 
 Done
 phase 1 : Collecting the data and storing it in json files
 phase 2 : Converting raw data into vectors for higher retrieval
 phase 3 : converting query into vector then retrieving the data and using llm to create a adequate response.
-
+phase 4 : Build a User interface for the Shop owner for using Agentic AI system 
 
 upcoming 
-phase 4 : Streamlit UI
+phase 5 : 
