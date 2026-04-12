@@ -1,3 +1,14 @@
+---
+title: Kirana AI
+emoji: 🛒
+colorFrom: orange
+colorTo: green
+sdk: streamlit
+sdk_version: 1.28.1
+app_file: app.py
+pinned: false
+---
+
 Problem : A Kirana store in india struggles with the memory and paper by the time they notice a problem, the loss has already happened they need technology advancement in thier business they need a smart AI system.A smart AI system can reduce their losses and maximize their profits and even leads to busines growth and a room for new opportunities. 
 
 tech stack 
@@ -15,4 +26,4 @@ phase 3 : converting query into vector then retrieving the data and using llm to
 phase 4 : Build a User interface for the Shop owner for using Agentic AI system 
 
 upcoming 
-phase 5 : 
+phase 5 : deployment
